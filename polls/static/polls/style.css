@@ -1,0 +1,13 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/background.png") no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('C:\Users\colet3\mysite\polls\static\polls\images\background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
